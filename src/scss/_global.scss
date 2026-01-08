@@ -1,0 +1,10 @@
+body {
+	min-width: 320px;
+	font-family: $font-text;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: $dark-blue;
+	font-family: $font-heading;
+	font-weight: 400;
+}
